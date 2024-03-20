@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3bedef0f-f969-41ec-b904-3c26b6a9eb15"
+      }
+    },
+    "owner": "bjentwistle"
   }
 }
