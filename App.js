@@ -26,8 +26,8 @@ export default () => (
       provider={PROVIDER_GOOGLE}
       style={styles.map}
       region={{
-        latitude: 37.78825,
-        longitude: -122.4324,
+        latitude: 55.9516,
+        longitude: -3.1955,
         latitudeDelta: 0.015,
         longitudeDelta: 0.0121,
       }}
